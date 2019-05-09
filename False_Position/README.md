@@ -1,6 +1,6 @@
 # FalsePosition
 ## Description 
-* 
+* this algorithm solves for the root using the false Position method. It take a function to be evaluated and upper and lower bounds then runs it through the function until the iterations or the approximates relative error is hit then it will give you your outputs. 
 ## Inputs
 * **func**-the function being evaluated
 * **xl**-the lower guess
